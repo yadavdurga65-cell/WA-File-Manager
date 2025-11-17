@@ -1,0 +1,43 @@
+# Privacy Policy for WhatsApp Media Finder
+
+**Last Updated: [17th November 2025]**
+
+## Introduction
+WhatsApp Media Finder ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our mobile application.
+
+## Data Collection and Usage
+
+### Local Data Storage
+- Our app accesses your WhatsApp media files (images, videos, audio, documents) stored on your device
+- We extract text from images and documents using OCR (Optical Character Recognition) technology
+- We calculate file hashes to identify duplicate files
+- All data is stored locally on your device in a SQLite database
+- We do not transmit, upload, or share any of your data with external servers or third parties
+
+### Permissions Required
+Our app requires the following permissions to function:
+- **Storage/Media Access**: To read WhatsApp media files from your device
+- **Photos, Videos, Audio**: To access and organize your media files
+- **Manage External Storage**: To access files across your device storage
+
+### Data Processing
+- **OCR Processing**: Text extraction from images and documents is performed entirely on your device
+- **Duplicate Detection**: File hash calculations are performed locally
+- **No Cloud Services**: All processing happens on your device - no data leaves your device
+
+## Data Sharing
+We do not share, sell, or transmit any of your data to third parties, external servers, or cloud services. All data remains on your device.
+
+## Data Security
+- All data is stored locally in an encrypted SQLite database
+- No network connections are made to external servers
+- Your files are never uploaded or transmitted
+
+## Age Restrictions
+Our app is available to users of all ages. We do not collect personal information from anyone, including children, as all data remains on your device.
+
+## Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date.
+
+## Contact Us
+If you have questions about this Privacy Policy, please contact us at: yadavdurga65@gmail.com
